@@ -1,0 +1,33 @@
+Various apps for LMS
+
+Polls
+
+Question 
+id                                      Question
+1                                     Are you happy with the Zuri training so far?
+2                                     What do you think about "Django Middlewire" ?
+3                                      Who are you?
+
+
+Choices
+Question                                        Answer_poll
+1(Are you happy.....)                          Yes(3)      No(2)
+2(What do you.......)                          Neverheardofit(54) Thinkitscool(16) Don'tknowanythingaboutit(64)
+
+#for every choice there must be a question.
+#for every question you donot neccesarily need to have a choice.
+
+Blog
+
+
+
+
+Task dashboard
+
+Student Task
+
+
+
+
+
+Admin Task
